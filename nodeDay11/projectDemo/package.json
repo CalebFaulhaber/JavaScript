@@ -1,16 +1,16 @@
 {
-    "name": "projectDemo",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [],
-    "author": "Hindreen",
-    "license": "ISC",
-    "dependencies": {
-      "qrcode": "^1.4.4"
-    }
+  "name": "projectDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hindreen",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.9.6",
+    "qrcode": "^1.4.4"
   }
-  
+}
